@@ -1,22 +1,22 @@
 _Central Connecticut State University_
 # CS 417 Design Patterns
-## Fall 2017
+## Fall 2018
 
 **Instructor:** Dr. Chad Williams, Department of Computer Science
 
 **Office:** MS 303 Phone: 860-832-2719
 
-**Office hours**: MW 11:00-12:00; TR 10:30-12:00; and by appointment.
+**Office hours**: MW 1:30-2:30; TR 10:30-12:00; and by appointment.
 
 **e-mail:** cwilliams@ccsu.edu
 
 **Course website:**
   * Blackboard https://ccsu.blackboard.com/
-  * GitHub course home https://github.com/CCSU-CS417F17/CS417F17CourseInfo
-    *  See the Git readme https://github.com/CCSU-CS417F17/CS417F17CourseInfo/blob/master/Git-ReadMe.md
+  * GitHub course home https://github.com/CCSU-CS417-505-F18/DesignPatternsF18CourseInfo
+    *  See the Git readme https://github.com/CCSU-CS417-505-F18/DesignPatternsF18CourseInfo/blob/master/Git-ReadMe.md
 
 
-**Class:** 5:55-7:10pm Monday and Wednesday in Vance 103
+**Class:** 4:30-5:45pm Monday and Wednesday in MS 204
 
 **Required book:**
 
@@ -36,43 +36,35 @@ As part of this course students will learn key skills for team based designing a
 
 > This course supports the following program objectives and program learning outcomes:
 
--   PEO-1: Graduates will have a broad understanding of the fundamental theories, concepts, and applications of computer science.
+-   PEO-1: Graduates will apply a broad understanding of the fundamental theories, concepts, and applications of computer science in their career.
 
-    -   SO-a: An ability to apply knowledge of computing and mathematics appropriate to the discipline.
+    -   SO-1: Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
 
-    -   SO-b: An ability to analyze a problem, and identify and define the computing requirements appropriate to its solution.
+    -   SO-2: Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
 
-    -   SO-c: An ability to design, implement, and evaluate a computer-based system, process, component, or program to meet desired needs.
+    -   SO-6: Apply computer science theory and software development fundamentals to produce computing-based solutions.
 
--   PEO-2: Graduates will be prepared for careers in computer science and information technology.
+-   PEO-2: Graduates will be engaged in a wide range of careers and/or graduate studies in computer science or related fields with a passion for lifelong learning.
 
-    -   SO-i: An ability to use current techniques, skills, and tools necessary for computing practice.
-
-    -   SO-j: An ability to apply mathematical foundations, algorithmic principles, and computer science theory in the modelling and design of computer-based systems in a way that demonstrates comprehension of the trade-offs involved in design choices.
-
-    -   SO-k: An ability to apply design and development principles in the construction of software systems of varying complexity.
-
--   PEO3: Graduates will communicate effectively, both orally and in writing.
-
-    -   SO-d: An ability to function effectively on teams to accomplish a common goal.
+    -   SO-5: Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
 
 **Course learning outcomes**
 
 > Program objectives and program learning outcomes are supported by the following course learning outcomes achieved by students upon a successful completion of this course:
 
--   CLO-1: Develop an in depth understanding of applying advanced object oriented design patterns to real world problems (a,b)
+-   CLO-1: Develop an in depth understanding of applying advanced object oriented design patterns to real world problems (SO-1,2,6)
 
--   CLO-2: Understand how to use UML in complex RUP design: Object and classes, relationships, state and sequence diagrams (a,b)
+-   CLO-2: Understand how to use UML in complex RUP design: Object and classes, relationships, state and sequence diagrams (SO-1,2,6)
 
--   CLO-3: Increase understanding of the key aspects of object-oriented design: abstraction, encapsulation, modularity, message passing, polymorphism, inheritance, exception handling (a,b,c,i)
+-   CLO-3: Increase understanding of the key aspects of object-oriented design: abstraction, encapsulation, modularity, message passing, polymorphism, inheritance, exception handling (SO-1,2,6)
 
--   CLO-4: Develop and advanced knowledge of the following design patterns: Singleton, Template, Strategy, Iterator, Factory, Delegation (b,c,i,j)
+-   CLO-4: Develop and advanced knowledge of the following design patterns: Singleton, Template, Strategy, Iterator, Factory, Delegation (SO-1,2,6)
 
--   CLO-5: Knowledge of how to incorporate the following frameworks into an application design: Collections, Generics, Composite, Comparators, and MVC (b,c,i,j)
+-   CLO-5: Knowledge of how to incorporate the following frameworks into an application design: Collections, Generics, Composite, Comparators, and MVC (SO-1,2,6)
 
--   CLO-6: Better understand unit and integration testing design and how to automate testing of each (b,c,i)
+-   CLO-6: Better understand unit and integration testing design and how to automate testing of each (SO-1,2,6)
 
--   CLO-7: The course will culminate in a large final project that will require working on teams and choosing the right design patterns covered throughout the course (a,b,c,d,i,j,k)
+-   CLO-7: The course will culminate in a large final project that will require working on teams and choosing the right design patterns covered throughout the course (SO-1,2,5,6)
 
 **Grading for the course:**
 
@@ -105,7 +97,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 **Development practice:** The vast majority of projects you encounter outside of the classroom require working in teams and an evolving code base. Within this class you will learn how to use the Git source control system for collaboration and maintaining your code evolution. Given the importance of understanding the additional complexity when there are multiple people working on the same code base, for the majority of assignments you will be **_required_ to work in teams**. In addition to using Git to submit your final deliverables, each student will be expected to use source control properly throughout the development process. **Unlike many classes where you are evaluated just on the final deliverable, expect to be evaluated on whether you followed good development practices along the way as well.**
 
-**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be **either Monday, October 16th or Wednesday, October 18th TBD** and the final exam will be at the university scheduled time **Wednesday, December 13th 5:30-7:30pm**. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
+**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be **Monday, October 15th** and the final exam will be at the university scheduled time **Monday, December 12th 5:30-7:30pm**. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
 
 **Attendance:** I expect students to attend class sessions regularly. ***For each absence (unless university excused) over 3 your overall final grade will be reduced by 1/4th of a letter grade. Skipping classes can seriously affect your final grade!*** If you are going to miss class please email me before class. Each student is responsible for making-up any missed study or work on their own. Limited assistance will be offered to those with plausible reasons for absences; unexcused absences result in the student being totally responsible for the make-up process. You are responsible for all announcements and material covered in the event that you do miss class, and should get that information from one of your classmates. In the event of a weather emergency that requires curtailment or cancellation of classes, listen to WTIC (1080 AM) or call (860) 832-3333.
 
@@ -115,11 +107,13 @@ http://www.ccsu.edu/academicintegrity/
 
  Please read it carefully.
 
-**Students with disabilities**: Please contact me privately to discuss your specific needs if you believe you need course accommodations based on the impact of a disability, medical condition, or if you have emergency medical information to share. I will need a copy of the accommodation letter from Student Disability Services in order to arrange your class accommodations. Contact Student Disability Services, Willard Hall, 101-04 if you are not already registered with them. Student Disability Services maintains the confidential documentation of your disability and assists you in coordinating reasonable accommodations with your faculty.
+ **Students with disabilities**: Central Connecticut State University provides reasonable accommodations in accordance with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act for students with documented disabilities on an individualized basis.  If you are a student with a documented disability, and would like to request academic accommodations, you are encouraged to contact Student Disability Services (SDS) at 860-832-1952, or email disabilityservices@ccsu.edu . Please visit the SDS website at http://www.ccsu.edu/sds/ to download an Intake form and documentation requirements. Once approved, SDS suggests that students discuss their approved accommodations with their professors, as well as any other additional medical emergency needs. Temporary impairments may also qualify for accommodations. Please note that accommodations are not retroactive and must be requested each semester.
+ 
+ **Statement on Discrimination and Harassment**: Central Connecticut State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon age; ancestry, color; gender identity and expression; intellectual disability; learning disability; mental disorder; physical disability; marital status, national origin; race; religious creed; sex, (including
+ pregnancy, transgender status, sexual harassment and sexual assault); sexual orientation; or any other status protected by federal or state laws.  Any student who has concerns should contact the Office of Diversity and Equity (ODE) at 860‐832‐1652, Student Affairs at 860‐832‐1601, or his/her faculty member.  The ODE is located on the main floor of Davidson Hall, room 102.
 
-**Statement on Discrimination and Harassment**: Central Connecticut State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon age; ancestry, color; gender identity and expression; intellectual disability; learning disability; mental disorder; physical disability; marital status, national origin; race; religious creed; sex, (including pregnancy, transgender status, sexual harassment and sexual assault); sexual orientation; or any other status protected by federal or state laws. Any student who has concerns about should contact the Office of Diversity and Equity (ODE) at 860-832-1652, Student Affairs at 860-832-1601, or his/her faculty member. The ODE is located on the main floor of Davidson Hall, room 102.
+ **Sexual Misconduct, Intimate Partner Violence and Stalking** Central Connecticut State University (CCSU) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual harassment or stalking, as defined in CCSU policies.  For additional information, please consult the CCSU policy at http://www.ccsu.edu/diversity/policies/BORSexualMisconductFeb2015.pdf.  All faculty members and staff have a duty to report incidents of sexual harassment including sexual misconduct, intimate partner violence and stalking to Rosa Rodríguez, Title IX Officer, Office of Diversity and Equity, Davidson Hall, 102.  To file a report contact: Diversity and Equity (860‐832‐1652), Student Conduct (860‐832‐1667) or Student Affairs (860‐832‐1601). For criminal complaints, contact the University Police (860‐832‐2375).  For support and advocacy contact:  Office of Victim Advocacy at 860‐832‐3795 or sarahdodd@ccsu.edu; Student Wellness Services at 860‐832‐1945 (confidential); Women’s Center at 860‐832‐1655; the local YWCA’s Sexual Assault Crisis Services Hotline at 860‐223‐1787 (confidential) and Prudence Crandall Center for Domestic Violence (confidential) at 888‐774‐2900 (24‐hour hotline).
 
-**Sexual Misconduct, Intimate Partner Violence and Stalking** Central Connecticut State University (CCSU) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual harassment or stalking, as defined in CCSU policies. For additional information, please consult the CCSU policies at  http://www.ccsu.edu/diversity/policies/misconductProcedures.html. All faculty members and staff have a duty to report incidents of sexual harassment including sexual violence to Rosa Rodríguez, Title IX Officer, Office of Diversity and Equity, Davidson Hall, 102. To file a report contact: Diversity and Equity (860-832-1652); Student Affairs (860-832-1601); Student Conduct (860-832-1667) or the University Police (860-832-2375). For support and advocacy contact: Student Wellness Services at 860-832-1945 (confidential), the Women’s Center at 860-832-1655, the local YWCA’s Sexual Assault Crisis Services Hotline at 860-223-1787 (confidential) and Prudence Crandall Center for Domestic Violence (confidential) at 888-774-2900 (24-hour hotline).
 
 **How to succeed in CS 417**:
 
@@ -143,7 +137,7 @@ http://www.ccsu.edu/academicintegrity/
 
 ***Please note assignment dates are only to give you an idea of what assignments will cover and approximate time frame, actual dates will be set as the semester progresses***
 
-**Week 1 week of August 28**
+**Week 1 week of August 27**
 
 -   Introduction and fit into RUP process
 
@@ -151,19 +145,19 @@ http://www.ccsu.edu/academicintegrity/
 
 -   UML modeling
 
-**Week 2 week of September 4**
+**Week 2 week of September 3**
 
--   *Labor day - No class Monday September 4th*
-
--   UML modeling cont.
-
--   Assignment 0 - Headshot and GitHub id
-
-**Week 3 week of September 11**
+-   *Labor day - No class Monday September 3rd*
 
 -   UML modeling cont.
 
-**Week 4 week of September 18**
+-   Assignment 0 - GitHub id
+
+**Week 3 week of September 10**
+
+-   UML modeling cont.
+
+**Week 4 week of September 17**
 
 -   Dynamic UML
 
@@ -171,17 +165,15 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Automated testing
 
--   ***Hand out of Raspberry Pi and Grove hardware***
-
 -   *Assignment 1 - Git and UML basics*
 
-**Week 5 week of September 25**
+**Week 5 week of September 24**
 
 -   Exception handling
 
 -   Chain of responsibility
 
-**Week 6 week of October 2**
+**Week 6 week of October 1**
 
 -   Generic refactoring
 
@@ -189,7 +181,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Strategy
 
-**Week 7 week of October 9**
+**Week 7 week of October 8**
 
 -   Strategy cont.
 
@@ -197,13 +189,13 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 2 - UML, implementation, testing*
 
-**Week 8 week of October 16**
+**Week 8 week of October 15**
 
 -   Singleton
 
--   **Midterm either Monday 16th or Wednesday, October 18th**
+-   **Midterm Monday 15th**
 
-**Week 9 week of October 23**
+**Week 9 week of October 22**
 
 -   Iterator
 
@@ -213,7 +205,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Generics
 
-**Week 10 week of October 30**
+**Week 10 week of October 29**
 
 -   Adapter
 
@@ -225,7 +217,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Final project sprint 1*
 
-**Week 11 week of November 6**
+**Week 11 week of November 5**
 
 -   Factory method
 
@@ -233,7 +225,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Builder
 
-**Week 12 week of November 13**
+**Week 12 week of November 12**
 
 -   Visitor
 
@@ -243,18 +235,18 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Final project sprint 2*
 
-**Week 13 week of November 20**
+**Week 13 week of November 19**
 
 - *Thanksgiving recess*
 
 
-**Week 14 week of November 27**
+**Week 14 week of November 26**
 -   Bringing it all together
 -   *Final project sprint 3*
 
-**Week 15 week of December 4**
+**Week 15 week of December 3**
 
--   ***Final projects due 12/4***
+-   ***Final projects due 12/3***
 
 -   Final project presentations
 
@@ -262,6 +254,6 @@ http://www.ccsu.edu/academicintegrity/
 
 **Final Exam**
 
--   Wednesday, December 13th
+-   Monday, December 10th
 
     -   5:30-7:30pm
