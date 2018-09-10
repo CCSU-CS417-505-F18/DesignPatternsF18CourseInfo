@@ -174,14 +174,14 @@ GUI git tools
 
     This is by far the best in my opinion as 90% of what you typically do can be done through an intuitive GUI
 
-## Git workflows 
+## Git workflows
 
 exceptional tutorial by Atlassian [https://www.atlassian.com/git/tutorials/comparing-workflows/](https://www.atlassian.com/git/tutorials/comparing-workflows/) material below is extracted from there
 
 
 ### Centralized flow
 
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/centralized-workflow/11.svg" alt="Centralized merge" style="width: 400px;"/><br/>
+<img src="https://wac-cdn.atlassian.com/dam/jcr:f03a0fbd-a880-477f-aa32-33340383ce07/02%20(3).svg?cdnVersion=jw" alt="Centralized merge" style="width: 400px;"/><br/>
 Credit https://www.atlassian.com/git/tutorials/comparing-workflows/
 
 Basic commands:
@@ -207,10 +207,10 @@ If merge needed
 
 ### Feature branch workflow
 
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/feature-branch-workflow/01.svg" alt="Feature branch overview" style="width: 400px;"/><br/>
+<img src="https://wac-cdn.atlassian.com/dam/jcr:223f5106-2191-4450-8916-e5c80d7d907a/02.svg" alt="Feature branch overview" style="width: 400px;"/><br/>
 Credit https://www.atlassian.com/git/tutorials/comparing-workflows/
 
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/feature-branch-workflow/07.svg" alt="Feature branch merge" style="width: 400px;"/><br/>
+<img src="https://wac-cdn.atlassian.com/dam/jcr:09308632-38a3-4637-bba2-af2110629d56/07.svg" alt="Feature branch merge" style="width: 400px;"/><br/>
 Credit https://www.atlassian.com/git/tutorials/comparing-workflows/
 
 Basic commands
@@ -240,7 +240,7 @@ After discussion
 
 ### GitFlow workflow
 
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/01.svg" alt="GitFlow branching overview" style="width: 400px;"/><br/>
+<img src="https://www.atlassian.com/dam/jcr:a9cea7b7-23c3-41a7-a4e0-affa053d9ea7/04%20(1).svg" alt="GitFlow branching overview" style="width: 600px;"/><br/>
 Credit https://www.atlassian.com/git/tutorials/comparing-workflows/
 
 >git branch develop
@@ -314,7 +314,7 @@ Fix the bug
 
 ### Forking workflow
 
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/forking-workflow/01.svg" alt="Forking flow overview" style="width: 400px;"/><br/>
+<img src="https://wac-cdn.atlassian.com/dam/jcr:642c56e3-ddc6-43ff-ab86-c5cd845afd05/03.svg?cdnVersion=jw" alt="Forking flow overview" style="width: 400px;"/><br/>
 Credit https://www.atlassian.com/git/tutorials/comparing-workflows/
 
 ***Test you skills and use this flow to help improve this repository!!!***
