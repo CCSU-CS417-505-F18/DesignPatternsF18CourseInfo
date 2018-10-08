@@ -1,6 +1,6 @@
-package edu.ccsu.cs417.creational;
+package edu.ccsu.designpatterns.creational;
 
-import edu.ccsu.cs417.enumeration.Direction;
+import edu.ccsu.designpatterns.enumeration.Direction;
 
 /**
  * Factory method example

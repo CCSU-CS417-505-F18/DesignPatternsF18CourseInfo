@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.enumeration;
+package edu.ccsu.designpatterns.enumeration;
 
 import java.util.ArrayList;
 import java.util.List;

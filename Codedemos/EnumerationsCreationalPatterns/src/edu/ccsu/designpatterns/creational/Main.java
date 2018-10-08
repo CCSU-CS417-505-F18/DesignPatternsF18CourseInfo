@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.creational;
+package edu.ccsu.designpatterns.creational;
 
 /**
  * Demo of use of creational patterns

@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.builder.vehicle;
+package edu.ccsu.designpatterns.builder.vehicle;
 
 /**
  * Comfort decorator for Seat, for simplicity no methods

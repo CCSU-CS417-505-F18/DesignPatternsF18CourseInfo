@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.ccsu.cs417.vehicleFactoryMethod;
+package edu.ccsu.designpatterns.vehicleFactoryMethod;
 
 /**
  *

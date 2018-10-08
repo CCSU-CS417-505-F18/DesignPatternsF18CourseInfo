@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.creational;
+package edu.ccsu.designpatterns.creational;
 
 import java.util.List;
 import java.util.Random;

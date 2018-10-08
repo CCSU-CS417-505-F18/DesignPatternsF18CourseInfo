@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.util;
+package edu.ccsu.designpatterns.util;
 
 import java.util.List;
 

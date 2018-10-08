@@ -1,6 +1,6 @@
-package edu.ccsu.cs417.vehicleFactoryMethod;
+package edu.ccsu.designpatterns.vehicleFactoryMethod;
 
-import edu.ccsu.cs417.enumeration.Direction;
+import edu.ccsu.designpatterns.enumeration.Direction;
 
 /**
  *

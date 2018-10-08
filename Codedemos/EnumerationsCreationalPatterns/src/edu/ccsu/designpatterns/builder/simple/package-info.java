@@ -11,4 +11,4 @@
  * class there is an example of the two different styles
  * of using the builder in this fashion.
  */
-package edu.ccsu.cs417.builder.simple;
+package edu.ccsu.designpatterns.builder.simple;

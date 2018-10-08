@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.vehiclePrototypeFactory;
+package edu.ccsu.designpatterns.vehiclePrototypeFactory;
 
 import java.util.HashMap;
 import java.util.Map;

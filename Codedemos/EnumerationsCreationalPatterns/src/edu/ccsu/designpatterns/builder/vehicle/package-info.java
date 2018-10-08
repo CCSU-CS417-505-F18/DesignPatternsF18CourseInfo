@@ -22,4 +22,4 @@
  * pattern to lookup versions of these
  * MotorizedVehicles for later use.
  */
-package edu.ccsu.cs417.builder.vehicle;
+package edu.ccsu.designpatterns.builder.vehicle;

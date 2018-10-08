@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.ccsu.cs417.builder.vehicle;
+package edu.ccsu.designpatterns.builder.vehicle;
 
 /**
  *

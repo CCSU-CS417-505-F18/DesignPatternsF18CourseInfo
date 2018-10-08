@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.vehiclePrototypeFactory;
+package edu.ccsu.designpatterns.vehiclePrototypeFactory;
 
 /**
  * Main class that uses prototype pattern

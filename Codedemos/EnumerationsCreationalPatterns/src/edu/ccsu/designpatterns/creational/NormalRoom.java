@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.ccsu.cs417.creational;
+package edu.ccsu.designpatterns.creational;
 
-import edu.ccsu.cs417.enumeration.Direction;
+import edu.ccsu.designpatterns.enumeration.Direction;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

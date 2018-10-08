@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.vehicleAbstractFactory;
+package edu.ccsu.designpatterns.vehicleAbstractFactory;
 
 /**
  * Abstract factory for creating vehicles

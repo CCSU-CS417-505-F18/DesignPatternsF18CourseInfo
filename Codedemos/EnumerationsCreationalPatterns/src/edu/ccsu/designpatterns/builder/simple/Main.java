@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.ccsu.cs417.builder.simple;
+package edu.ccsu.designpatterns.builder.simple;
 
-import edu.ccsu.cs417.builder.simple.Person.PersonBuilder;
+import edu.ccsu.designpatterns.builder.simple.Person.PersonBuilder;
 
 /**
  * Demonstration of two options for creation using

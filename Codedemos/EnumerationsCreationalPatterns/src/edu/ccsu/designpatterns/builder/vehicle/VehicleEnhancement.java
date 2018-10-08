@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.builder.vehicle;
+package edu.ccsu.designpatterns.builder.vehicle;
 
 /**
  * General types of vehicle enhancements

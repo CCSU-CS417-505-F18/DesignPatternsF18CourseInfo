@@ -1,6 +1,6 @@
-package edu.ccsu.cs417.vehicleAbstractFactory;
+package edu.ccsu.designpatterns.vehicleAbstractFactory;
 
-import edu.ccsu.cs417.enumeration.Direction;
+import edu.ccsu.designpatterns.enumeration.Direction;
 
 /**
  * Movement powered by human

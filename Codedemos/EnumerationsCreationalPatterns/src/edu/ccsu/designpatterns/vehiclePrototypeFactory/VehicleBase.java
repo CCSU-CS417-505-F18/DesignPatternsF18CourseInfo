@@ -1,6 +1,6 @@
-package edu.ccsu.cs417.vehiclePrototypeFactory;
+package edu.ccsu.designpatterns.vehiclePrototypeFactory;
 
-import edu.ccsu.cs417.enumeration.Direction;
+import edu.ccsu.designpatterns.enumeration.Direction;
 
 /**
  * Base abstract class

@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.builder.simple;
+package edu.ccsu.designpatterns.builder.simple;
 
 public class Person {
 

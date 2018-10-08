@@ -1,4 +1,4 @@
-package edu.ccsu.cs417.vehicleFactoryMethod;
+package edu.ccsu.designpatterns.vehicleFactoryMethod;
 
 /**
  * BaseEngine for a motorized vehicle

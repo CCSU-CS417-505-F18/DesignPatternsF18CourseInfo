@@ -1,6 +1,6 @@
-package edu.ccsu.cs417.builder.vehicle;
+package edu.ccsu.designpatterns.builder.vehicle;
 
-import edu.ccsu.cs417.util.ListUtil;
+import edu.ccsu.designpatterns.util.ListUtil;
 import java.util.List;
 
 /**
