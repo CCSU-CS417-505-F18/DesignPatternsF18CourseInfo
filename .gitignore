@@ -3,3 +3,6 @@
 /LectureSlides/*.zargo~
 /Codedemos/EnumerationsCreationalPatterns/nbproject/private/
 /Codedemos/EnumerationsCreationalPatterns/build/
+/Codedemos/VisitorPattern/nbproject/private/
+/Codedemos/VisitorPattern/dist/
+/Codedemos/VisitorPattern/build/
